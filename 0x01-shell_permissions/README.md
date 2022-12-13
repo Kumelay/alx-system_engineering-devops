@@ -12,3 +12,4 @@
 11. Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 12. Creates a directory with permissions 751 in the working directory
 13. Changes the group owner to school for the file hello
+14. Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory

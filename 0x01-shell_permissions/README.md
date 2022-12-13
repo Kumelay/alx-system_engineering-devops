@@ -14,3 +14,4 @@
 13. Changes the group owner to school for the file hello
 14. Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
 15. Changes the owner and the group owner of the symbolic link file _hello to vincent and staff respectively
+16. Changes the owner of the file hello to betty only if it is owned by the user guillaume

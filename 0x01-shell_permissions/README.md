@@ -6,3 +6,4 @@
 5. Adds execute permission to the owner
 6. Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 7. Adds execution permission to the owner, the group owner and the other users, to the file hello
+8. Sets no permissions to the owner and group owner but all permissions to other users of the file hello

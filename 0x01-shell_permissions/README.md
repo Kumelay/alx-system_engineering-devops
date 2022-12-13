@@ -10,4 +10,5 @@
 9. Sets the mode of the file hello as rwxr-x-wx
 10. Sets the mode of the file hello the same as olleh’s mode
 11. Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
-12. creates a directory with permissions 751 in the working directory
+12. Creates a directory with permissions 751 in the working directory
+13. Changes the group owner to school for the file hello

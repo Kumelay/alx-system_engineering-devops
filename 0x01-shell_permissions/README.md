@@ -4,3 +4,4 @@
 3. Changes owner of a file
 4. Creates an empty file
 5. Adds execute permission to the owner
+6. Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
